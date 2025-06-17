@@ -1,1 +1,1 @@
-This is an example of online store in Telegram
+This is an example of online store in Telegram.
